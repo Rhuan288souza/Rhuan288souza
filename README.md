@@ -1,7 +1,7 @@
 <div class="Box-body p-4">
 
 <h1 align="center">Hi 👋, I'm Rhuan Souza</h1>
-<h3 align="center">A Software Developer Under Construction </h3>
+<h3 align="center">A Software Developer Under Development </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
