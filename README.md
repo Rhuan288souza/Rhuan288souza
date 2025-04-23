@@ -17,10 +17,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhuan288souza&theme=dracula&show_icons=true&locale=en" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhuan288souza&amp;layout=compact&amp;langs_count=16&amp;theme=dracula" style="max-width:100%;">
 </a></div><a href="https://github.com/Rhuan288souza">
 
-<div  align="center"> 
-
-  ![Snake animation](https://github.com/Rhuan288souza/Rhuan288souza/blob/main/github-contribution-grid-snake.svg)
- 
-</div>
-
   </div>
